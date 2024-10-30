@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Tantecish
-- 👀 I’m interested in Python, Bash & Javascript
-- 🌱 I’m currently learning Bash
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, Poqwershell
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate with senior programmers
 - 📫 How to reach me ktanish632@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am new joiner in tech & like to connect with those who have experience in interested common skills for guidance & assistance.
+- ⚡ Fun fact: like to connect with those who have experience in same common skills for guidance & assistance.
 
 <!---
 Tantecish/Tantecish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
